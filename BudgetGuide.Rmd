@@ -1,0 +1,36 @@
+---
+title: "Rosa's Budget Guide"
+author: "Sofie Appelkvist"
+date: "May 2021"
+output: 
+  html_document:
+    theme: lumen
+    highlight: zenburn
+    df_print: kable
+    toc: FALSE 
+    toc_depth: 2
+    toc_float: true
+---
+
+Here is my ultimate budget guide for Rosa to survive her new life as a broke ass bitch.
+
+# Basics {.tabset}
+
+Tips & tricks to help you maximize every penny.
+
+## Section 1 
+## Section 2 
+## Section 3
+
+
+# Recipes {.tabset}
+
+My collection of staple budget recipes.
+
+## Section 1 
+## Section 2 
+## Section 3
+
+
+
+
