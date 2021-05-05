@@ -32,5 +32,3 @@ My collection of staple budget recipes.
 ## Section 3
 
 
-# hello world {.tabset}
-
